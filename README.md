@@ -3,6 +3,8 @@
 **Level up in real life.** A fitness RPG: every workout is a quest, every PR
 is a boss kill.
 
+▶ **[Watch the 70-second interactive walkthrough](https://chinmaygit8765.github.io/exaryn-studio/demos/strength-quest.html)** — log a deadlift session, hit a PR, watch it land as a boss kill and a level-up.
+
 > 🚧 **In development.** This is the public home of Solo Strength Quest —
 > ⭐ star or 👁 watch this repo to catch the beta, release announcements, and
 > the app-store launch.
